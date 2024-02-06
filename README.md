@@ -29,6 +29,4 @@ As a pre-final year Computer Engineering student, I am driven by a passion for l
 
 <a href="http://www.github.com/IshitaSuchdeva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IshitaSuchdeva&stroke=6366f1&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/IshitaSuchdeva"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=IshitaSuchdeva&bg_color=1c1917&color=6366f1&line=ec4899&point=6366f1&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/IshitaSuchdeva" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSuchdeva&langs_count=10&title_color=a855f7&text_color=6366f1&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
