@@ -4,9 +4,9 @@ Hi 👋 My name is Ishita Suchdeva
 "The technology you use impresses no one. The experience you create with it is everything."
 -------------------------------------------------------------------------------------------
 
-As a pre-final year Computer Engineering student, I am driven by a passion for learning and a commitment to leveraging emerging technologies to drive positive change. I am eager to explore new avenues, contribute to innovation, and make a meaningful impact in the field.
+As a final year Computer Engineering student, I am driven by a passion for learning and a commitment to leveraging emerging technologies to drive positive change. I am eager to explore new avenues, contribute to innovation, and make a meaningful impact in the field.
 
-* 🧠  I'm learning Backend Development
+* 🧠  I'm currently working on Generative AI
 * 🤝  I'm open to collaborating on web development and ML/AI based projects
 
 ### Skills
